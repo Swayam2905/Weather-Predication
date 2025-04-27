@@ -46,10 +46,5 @@ Dataset URL: [Weather Prediction Dataset on Kaggle](https://www.kaggle.com/datas
 6. **Hyperparameter Tuning**:
    - Use techniques like Grid Search or Randomized Search to optimize model performance.
 
-## Installation and Setup
-To get started, clone this repository and install the required packages.
 
-```bash
-git clone https://github.com/your-username/weather-prediction.git
-cd weather-prediction
 
